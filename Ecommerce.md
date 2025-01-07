@@ -28,9 +28,5 @@ O modelo conceitual descreve a estrutura lógica das entidades e como elas inter
 
 ![Modelo Conceitual](figures/modelo-conceitual-ecommerce)
 
-## Modelo Relacional
 
-Aqui está o modelo relacional que descreve as tabelas/entidades e seus relacionamentos. Ele serve como base para a construção da solução e implementação do banco de dados:
-
-![Modelo Relacional](figures/modelo-relacional-ecommerce)
 
