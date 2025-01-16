@@ -26,7 +26,7 @@ Este arquivo contém a solução para o desafio do Bootcamp relacionado a um sis
 
 O modelo conceitual descreve a estrutura lógica das entidades e como elas interagem no contexto do sistema de e-commerce. Esse modelo foi projetado para garantir uma gestão eficiente de vendas, estoque, fornecedores e clientes.
 
-![Modelo Conceitual](figures/modelo-conceitual-ecommerce)
+![Modelo Conceitual](figures/modelo-conceitual-ecommerce.png)
 
 
 
